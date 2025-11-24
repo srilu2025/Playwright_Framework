@@ -1,0 +1,8 @@
+[
+  'Prescription',
+  'Sale',
+  'Stock',
+  'Counter',
+  'Reports',
+  'Patient Consumption'
+]

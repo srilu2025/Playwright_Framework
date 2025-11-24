@@ -1,0 +1,587 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e4]:
+  - generic [ref=e5]:
+    - generic:
+      - link "logo" [ref=e7] [cursor=pointer]:
+        - /url: "#"
+        - img "logo" [ref=e8]
+      - list [ref=e11]:
+        - listitem [ref=e12]:
+          - link "CMH_V2.2.4X" [ref=e13] [cursor=pointer]:
+            - /url: javascript:;
+        - listitem "My notifications" [ref=e14]:
+          - list [ref=e15]:
+            - listitem [ref=e16]:
+              - link "" [ref=e17] [cursor=pointer]:
+                - /url: javascript:;
+                - generic [ref=e18]: 
+        - listitem [ref=e19]:
+          - link "admin " [ref=e20] [cursor=pointer]:
+            - /url: javascript:;
+            - generic [ref=e21]: admin
+            - generic [ref=e22]: 
+          - text:  
+        - listitem [ref=e23]:
+          - link " " [ref=e24] [cursor=pointer]:
+            - /url: javascript:;
+            - generic [ref=e25]: 
+            - generic [ref=e26]: 
+          - text: 
+  - generic [ref=e27]:
+    - list [ref=e29]:
+      - listitem [ref=e30]:
+        - link "Dispensary " [ref=e31] [cursor=pointer]:
+          - /url: "#/Dispensary"
+          - img [ref=e32]
+          - text: Dispensary
+          - generic: 
+      - listitem [ref=e33]:
+        - link "SocialService " [ref=e34] [cursor=pointer]:
+          - /url: "#/SSU"
+          - img [ref=e35]
+          - text: SocialService
+          - generic: 
+      - listitem [ref=e36]:
+        - link "OperationTheatre " [ref=e37] [cursor=pointer]:
+          - /url: "#/OperationTheatre"
+          - img [ref=e38]
+          - text: OperationTheatre
+          - generic: 
+      - listitem [ref=e39]:
+        - link "DynamicReport " [ref=e40] [cursor=pointer]:
+          - /url: "#/DynamicReport"
+          - img [ref=e41]
+          - text: DynamicReport
+          - generic: 
+      - listitem [ref=e42]:
+        - link "Doctor " [ref=e43] [cursor=pointer]:
+          - /url: "#/Doctors"
+          - img [ref=e44]
+          - text: Doctor
+          - generic: 
+      - listitem [ref=e45]:
+        - link "Appointment " [ref=e46] [cursor=pointer]:
+          - /url: "#/Appointment"
+          - img [ref=e47]
+          - text: Appointment
+          - generic: 
+      - listitem [ref=e48]:
+        - link "Patient " [ref=e49] [cursor=pointer]:
+          - /url: "#/Patient"
+          - img [ref=e50]
+          - text: Patient
+          - generic: 
+      - listitem [ref=e51]:
+        - link "Procurement " [ref=e52] [cursor=pointer]:
+          - /url: "#/ProcurementMain"
+          - img [ref=e53]
+          - text: Procurement
+          - generic: 
+      - listitem [ref=e54]:
+        - link "Billing " [ref=e55] [cursor=pointer]:
+          - /url: "#/Billing"
+          - img [ref=e56]
+          - text: Billing
+          - generic: 
+      - listitem [ref=e57]:
+        - link "ClaimMgmt " [ref=e58] [cursor=pointer]:
+          - /url: "#/ClaimManagement"
+          - img [ref=e59]
+          - text: ClaimMgmt
+          - generic: 
+      - listitem [ref=e60]:
+        - link "Utilities " [ref=e61] [cursor=pointer]:
+          - /url: "#/Utilities"
+          - img [ref=e62]
+          - text: Utilities
+          - generic: 
+      - listitem [ref=e63]:
+        - link "MktReferral " [ref=e64] [cursor=pointer]:
+          - /url: "#/MktReferral"
+          - img [ref=e65]
+          - text: MktReferral
+          - generic: 
+      - listitem [ref=e66]:
+        - link "Reports " [ref=e67] [cursor=pointer]:
+          - /url: "#/Reports"
+          - img [ref=e68]
+          - text: Reports
+          - generic: 
+      - listitem [ref=e69]:
+        - link "Laboratory " [ref=e70] [cursor=pointer]:
+          - /url: "#/Lab"
+          - img [ref=e71]
+          - text: Laboratory
+          - generic: 
+      - listitem [ref=e72]:
+        - link "Radiology " [ref=e73] [cursor=pointer]:
+          - /url: "#/Radiology"
+          - img [ref=e74]
+          - text: Radiology
+          - generic: 
+      - listitem [ref=e75]:
+        - link "ADT " [ref=e76] [cursor=pointer]:
+          - /url: "#/ADTMain"
+          - img [ref=e77]
+          - text: ADT
+          - generic: 
+      - listitem [ref=e78]:
+        - link "Vaccination " [ref=e79] [cursor=pointer]:
+          - /url: "#/Vaccination"
+          - img [ref=e80]
+          - text: Vaccination
+          - generic: 
+      - listitem [ref=e81]:
+        - link "QueueMngmt " [ref=e82] [cursor=pointer]:
+          - /url: "#/QueueManagement"
+          - img [ref=e83]
+          - text: QueueMngmt
+          - generic: 
+      - listitem [ref=e84]:
+        - link "Inventory " [ref=e85] [cursor=pointer]:
+          - /url: "#/Inventory"
+          - img [ref=e86]
+          - text: Inventory
+          - generic: 
+      - listitem [ref=e87]:
+        - link "Accounting " [ref=e88] [cursor=pointer]:
+          - /url: "#/Accounting"
+          - img [ref=e89]
+          - text: Accounting
+          - generic: 
+      - listitem [ref=e90]:
+        - link "Emergency " [ref=e91] [cursor=pointer]:
+          - /url: "#/Emergency"
+          - img [ref=e92]
+          - text: Emergency
+          - generic: 
+      - listitem [ref=e93]:
+        - link "NHIF " [ref=e94] [cursor=pointer]:
+          - /url: "#/GovInsurance"
+          - img [ref=e95]
+          - text: NHIF
+          - generic: 
+      - listitem [ref=e96]:
+        - link "Maternity " [ref=e97] [cursor=pointer]:
+          - /url: "#/Maternity"
+          - img [ref=e98]
+          - text: Maternity
+          - generic: 
+      - listitem [ref=e99]:
+        - link "Helpdesk " [ref=e100] [cursor=pointer]:
+          - /url: "#/Helpdesk"
+          - img [ref=e101]
+          - text: Helpdesk
+          - generic: 
+      - listitem [ref=e102]:
+        - link "Nursing " [ref=e103] [cursor=pointer]:
+          - /url: "#/Nursing"
+          - img [ref=e104]
+          - text: Nursing
+          - generic: 
+      - listitem [ref=e105]:
+        - link "MedicalRecords " [ref=e106] [cursor=pointer]:
+          - /url: "#/Medical-records"
+          - img [ref=e107]
+          - text: MedicalRecords
+          - generic: 
+      - listitem [ref=e108]:
+        - link "Settings " [ref=e109] [cursor=pointer]:
+          - /url: "#/Settings"
+          - img [ref=e110]
+          - text: Settings
+          - generic: 
+      - listitem [ref=e111]:
+        - link "SystemAdmin " [ref=e112] [cursor=pointer]:
+          - /url: "#/SystemAdmin"
+          - img [ref=e113]
+          - text: SystemAdmin
+          - generic: 
+      - listitem [ref=e114]:
+        - link "Pharmacy " [ref=e115] [cursor=pointer]:
+          - /url: "#/Pharmacy"
+          - img [ref=e116]
+          - text: Pharmacy
+          - generic: 
+      - listitem [ref=e117]:
+        - link "SubStore " [ref=e118] [cursor=pointer]:
+          - /url: "#/WardSupply"
+          - img [ref=e119]
+          - text: SubStore
+          - generic: 
+      - listitem [ref=e120]:
+        - link "CSSD " [ref=e121] [cursor=pointer]:
+          - /url: "#/CSSD"
+          - img [ref=e122]
+          - text: CSSD
+          - generic: 
+      - listitem [ref=e123]:
+        - link "Incentive " [ref=e124] [cursor=pointer]:
+          - /url: "#/Incentive"
+          - img [ref=e125]
+          - text: Incentive
+          - generic: 
+      - listitem [ref=e126]:
+        - link "Verification " [ref=e127] [cursor=pointer]:
+          - /url: "#/Verification"
+          - img [ref=e128]
+          - text: Verification
+          - generic: 
+      - listitem [ref=e129]:
+        - link "FixedAssets " [ref=e130] [cursor=pointer]:
+          - /url: "#/FixedAssets"
+          - img [ref=e131]
+          - text: FixedAssets
+          - generic: 
+    - generic [ref=e135]:
+      - list [ref=e137]:
+        - listitem [ref=e138] [cursor=pointer]:
+          - link "IPBilling" [ref=e139]:
+            - /url: "#/Billing/InpatBilling"
+            - text: IPBilling
+        - listitem [ref=e140] [cursor=pointer]:
+          - link "" [ref=e141]:
+            - /url: "#/Billing/Dashboard"
+            - generic [ref=e142]: 
+        - listitem [ref=e143] [cursor=pointer]:
+          - link "Search Patient" [ref=e144]:
+            - /url: "#/Billing/SearchPatient"
+            - text: Search Patient
+        - listitem [ref=e145] [cursor=pointer]:
+          - link "Provisional Clearance" [ref=e146]:
+            - /url: "#/Billing/ProvisionalClearance"
+            - text: Provisional Clearance
+        - listitem [ref=e147] [cursor=pointer]:
+          - link "Cancel Bills" [ref=e148]:
+            - /url: "#/Billing/BillCancellationRequest"
+            - text: Cancel Bills
+        - listitem [ref=e149] [cursor=pointer]:
+          - link "Return Bills" [ref=e150]:
+            - /url: "#/Billing/BillReturnRequest"
+            - text: Return Bills
+        - listitem [ref=e151] [cursor=pointer]:
+          - link "Duplicate Prints" [ref=e152]:
+            - /url: "#/Billing/DuplicatePrints"
+            - text: Duplicate Prints
+        - listitem [ref=e153] [cursor=pointer]:
+          - link "Settlements" [ref=e154]:
+            - /url: "#/Billing/Settlements"
+            - text: Settlements
+        - listitem [ref=e155] [cursor=pointer]:
+          - link "Edit Doctor" [ref=e156]:
+            - /url: "#/Billing/EditDoctor"
+            - text: Edit Doctor
+        - listitem [ref=e157] [cursor=pointer]:
+          - link "Handover" [ref=e158]:
+            - /url: "#/Billing/BillingDenomination"
+            - text: Handover
+      - generic [ref=e160]:
+        - generic [ref=e161]:
+          - heading " Search Patients" [level=3] [ref=e164]:
+            - generic [ref=e165]:
+              - generic [ref=e166]: 
+              - text: Search Patients
+          - generic [ref=e167]:
+            - generic "Shortcut Keys" [ref=e169]:
+              - link "keyboard shortcut" [ref=e170] [cursor=pointer]:
+                - /url: "javascript: void(0)"
+                - img "keyboard shortcut" [ref=e171]
+            - button " Add New Patient" [ref=e172] [cursor=pointer]:
+              - generic [ref=e173]: 
+              - text: Add New Patient
+        - generic [ref=e175]:
+          - generic [ref=e176]:
+            - generic [ref=e177]: "Search OPD Patients:"
+            - textbox "Search OPD Patients:" [ref=e179]:
+              - /placeholder: search by HospitalNo, Patient Name, Phone Number
+          - generic [ref=e183]:
+            - generic [ref=e184]: "Search IPD Patients:"
+            - textbox "Search IPD Patients:" [ref=e186]:
+              - /placeholder: Search by IPD-No, Patient Name, Hospital No, Phone Number
+        - generic [ref=e192]:
+          - generic [ref=e193]:
+            - heading "Add New Patient" [level=3] [ref=e194]
+            - button "X" [ref=e195] [cursor=pointer]
+          - generic [ref=e201]:
+            - generic [ref=e202]:
+              - generic [ref=e203]:
+                - generic [ref=e204]:
+                  - text: First Name *
+                  - generic [ref=e205]: ":"
+                - textbox "First Name * :" [active] [ref=e207]:
+                  - /placeholder: First Name
+              - generic [ref=e209]:
+                - generic [ref=e210]:
+                  - text: Middle Name
+                  - generic [ref=e211]: ":"
+                - textbox "Middle Name :" [ref=e213]:
+                  - /placeholder: Middle Name
+              - generic [ref=e215]:
+                - generic [ref=e216]:
+                  - text: Last Name *
+                  - generic [ref=e217]: ":"
+                - textbox "Last Name * :" [ref=e219]:
+                  - /placeholder: Last Name
+              - generic [ref=e221]:
+                - generic [ref=e222]:
+                  - text: Gender *
+                  - generic [ref=e223]: ":"
+                - combobox [ref=e226]:
+                  - option "--select--" [disabled] [selected]
+                  - option "Male"
+                  - option "Female"
+                  - option "Other"
+              - generic [ref=e228]:
+                - generic [ref=e229]:
+                  - text: Age *
+                  - generic [ref=e230]: ":"
+                - generic [ref=e231]:
+                  - spinbutton "Age * :" [ref=e234]
+                  - combobox [ref=e239]:
+                    - option "Years" [selected]
+                    - option "Months"
+                    - option "Days"
+              - generic [ref=e242]:
+                - generic [ref=e243]:
+                  - text: Religion *
+                  - generic [ref=e244]: ":"
+                - combobox [ref=e248]:
+                  - option "--Religion--" [selected]
+                  - option "Others"
+              - generic [ref=e249]:
+                - generic [ref=e250]:
+                  - text: Contact Number *
+                  - generic [ref=e251]: ":"
+                - spinbutton [ref=e253]
+            - generic [ref=e254]:
+              - generic [ref=e255]:
+                - generic [ref=e256]:
+                  - text: Country *
+                  - generic [ref=e257]: ":"
+                - combobox [ref=e259]:
+                  - option "Nepal"
+                  - option "Afghanistan"
+                  - option "Albania"
+                  - option "Algeria"
+                  - option "Andorra"
+                  - option "Angola"
+                  - option "Antigua and Barbuda"
+                  - option "Argentina"
+                  - option "Armenia"
+                  - option "Australia"
+                  - option "Austria"
+                  - option "Azerbaijan"
+                  - option "Bahamas"
+                  - option "Bahrain"
+                  - option "Bangladesh"
+                  - option "Barbados"
+                  - option "Belarus"
+                  - option "Belgium"
+                  - option "Belize"
+                  - option "Benin"
+                  - option "Bhutan"
+                  - option "Bolivia"
+                  - option "Bosnia and Herzegovina"
+                  - option "Botswana"
+                  - option "Brazil"
+                  - option "Brunei Darussalam"
+                  - option "Bulgaria"
+                  - option "Burkina Faso"
+                  - option "Burundi"
+                  - option "Cambodia"
+                  - option "Cameroon"
+                  - option "Canada"
+                  - option "Cabo Verde"
+                  - option "Central African Republic"
+                  - option "Chad"
+                  - option "Chile"
+                  - option "China"
+                  - option "Colombia"
+                  - option "Comoros"
+                  - option "Congo, Republic of the"
+                  - option "Congo, the Democratic Republic of the"
+                  - option "Costa Rica"
+                  - option "Côte d'Ivoire"
+                  - option "Croatia"
+                  - option "Cuba"
+                  - option "Cyprus"
+                  - option "Czech Republic"
+                  - option "Denmark"
+                  - option "Djibouti"
+                  - option "Dominica"
+                  - option "Dominican Republic"
+                  - option "East Timor"
+                  - option "Ecuador"
+                  - option "Egypt"
+                  - option "Equatorial Guinea"
+                  - option "Eritrea"
+                  - option "Estonia"
+                  - option "Ethiopia"
+                  - option "Fiji"
+                  - option "Finland"
+                  - option "France"
+                  - option "Gabon"
+                  - option "Gambia"
+                  - option "Georgia"
+                  - option "Germany"
+                  - option "Ghana"
+                  - option "Greece"
+                  - option "Grenada"
+                  - option "Guatemala"
+                  - option "Guinea"
+                  - option "Guinea-Bissau"
+                  - option "Guyana"
+                  - option "Haiti"
+                  - option "Honduras"
+                  - option "Hongkong"
+                  - option "Hungary"
+                  - option "Iceland"
+                  - option "India"
+                  - option "Indonesia"
+                  - option "Iran, Islamic Republic of"
+                  - option "Iraq"
+                  - option "Ireland"
+                  - option "Israel"
+                  - option "Italy"
+                  - option "Jamaica"
+                  - option "Japan"
+                  - option "Jordan"
+                  - option "Kazakhstan"
+                  - option "Kenya" [selected]
+                  - option "Kiribati"
+                  - option "Kuwait"
+                  - option "Kyrgyzstan"
+                  - option "Lao People's Democratic Republic"
+                  - option "Latvia"
+                  - option "Lebanon"
+                  - option "Lesotho"
+                  - option "Liberia"
+                  - option "Libya"
+                  - option "Liechtenstein"
+                  - option "Lithuania"
+                  - option "Luxembourg"
+                  - option "Macedonia, The Former Yugoslav Republic of"
+                  - option "Madagascar"
+                  - option "Malawi"
+                  - option "Malaysia"
+                  - option "Maldives"
+                  - option "Mali"
+                  - option "Malta"
+                  - option "Marshall Islands"
+                  - option "Mauritania"
+                  - option "Mauritius"
+                  - option "Mexico"
+                  - option "Micronesia, Federated States of"
+                  - option "Moldova, Republic of"
+                  - option "Monaco"
+                  - option "Mongolia"
+                  - option "Montenegro"
+                  - option "Morocco"
+                  - option "Mozambique"
+                  - option "Myanmar"
+                  - option "Namibia"
+                  - option "Nauru"
+                  - option "Netherlands"
+                  - option "New Zealand"
+                  - option "Nicaragua"
+                  - option "Niger"
+                  - option "Nigeria"
+                  - option "Norway"
+                  - option "Oman"
+                  - option "Pakistan"
+                  - option "Palau"
+                  - option "Panama"
+                  - option "Papua New Guinea"
+                  - option "Paraguay"
+                  - option "Peru"
+                  - option "Philippines"
+                  - option "Poland"
+                  - option "Portugal"
+                  - option "Qatar"
+                  - option "Romania"
+                  - option "Russian Federation"
+                  - option "Rwanda"
+                  - option "Saint Kitts and Nevis"
+                  - option "Saint Lucia"
+                  - option "Samoa"
+                  - option "San Marino"
+                  - option "Sao Tome and Principe"
+                  - option "Saudi Arabia"
+                  - option "Senegal"
+                  - option "Serbia"
+                  - option "Seychelles"
+                  - option "Sierra Leone"
+                  - option "Singapore"
+                  - option "Slovakia"
+                  - option "Slovenia"
+                  - option "Solomon Islands"
+                  - option "Somalia"
+                  - option "South Africa"
+                  - option "Spain"
+                  - option "Sri Lanka"
+                  - option "Sudan"
+                  - option "Suriname"
+                  - option "Swaziland"
+                  - option "Sweden"
+                  - option "Switzerland"
+                  - option "Syrian Arab Republic"
+                  - option "Taiwan"
+                  - option "Tajikistan"
+                  - option "Tanzania, United Republic of"
+                  - option "Thailand"
+                  - option "Timor-Leste"
+                  - option "Togo"
+                  - option "Tonga"
+                  - option "Trinidad and Tobago"
+                  - option "Tunisia"
+                  - option "Turkey"
+                  - option "Turkmenistan"
+                  - option "Tuvalu"
+                  - option "Uganda"
+                  - option "Ukraine"
+                  - option "United Arab Emirates"
+                  - option "United Kingdom"
+                  - option "United States"
+                  - option "Uruguay"
+                  - option "Uzbekistan"
+                  - option "Vanuatu"
+                  - option "Venezuela, Bolivarian Republic of"
+                  - option "Vietnam"
+                  - option "Western Sahara"
+                  - option "Yemen"
+                  - option "Zambia"
+                  - option "Zimbabwe"
+                  - option "South Korea"
+              - generic [ref=e260]:
+                - generic [ref=e261]:
+                  - text: County *
+                  - generic [ref=e262]: ":"
+                - textbox "District" [ref=e265]: Belgut sub county
+              - generic [ref=e266]:
+                - generic [ref=e267]:
+                  - text: Sub County
+                  - generic [ref=e268]: ":"
+                - textbox "Sub County :" [ref=e272]:
+                  - /placeholder: Sub County
+              - generic [ref=e273]:
+                - generic [ref=e274]:
+                  - text: Ward Number
+                  - generic [ref=e275]: ":"
+                - spinbutton "Ward Number :" [ref=e277]
+              - generic [ref=e278]:
+                - generic [ref=e279]:
+                  - text: Address
+                  - generic [ref=e280]: ":"
+                - textbox "Address" [ref=e283]
+              - generic [ref=e284]:
+                - generic [ref=e285]:
+                  - text: Email
+                  - generic [ref=e286]: ":"
+                - textbox "Enter Email" [ref=e288]
+          - generic [ref=e290]:
+            - button "Register & Billing" [ref=e291] [cursor=pointer]
+            - button "Register Only" [ref=e292] [cursor=pointer]
+            - button "Close" [ref=e293] [cursor=pointer]
+```

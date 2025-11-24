@@ -1,0 +1,7 @@
+{
+  firstNameValue: 'tom',
+  middleNameValue: 'holland',
+  lastNameValue: 'cruise',
+  ageValue: 60,
+  phoneValue: 123456789
+}

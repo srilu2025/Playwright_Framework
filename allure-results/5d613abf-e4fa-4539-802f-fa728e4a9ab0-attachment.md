@@ -1,0 +1,279 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e4]:
+  - generic [ref=e5]:
+    - generic:
+      - link "logo" [ref=e7] [cursor=pointer]:
+        - /url: "#"
+        - img "logo" [ref=e8]
+      - list [ref=e11]:
+        - listitem [ref=e12]:
+          - link "CMH_V2.2.4X" [ref=e13] [cursor=pointer]:
+            - /url: javascript:;
+        - listitem "My notifications" [ref=e14]:
+          - list [ref=e15]:
+            - listitem [ref=e16]:
+              - link "" [ref=e17] [cursor=pointer]:
+                - /url: javascript:;
+                - generic [ref=e18]: 
+        - listitem [ref=e19]:
+          - link "" [ref=e20] [cursor=pointer]:
+            - /url: javascript:;
+            - generic [ref=e21]: 
+          - text:  
+        - listitem [ref=e22]:
+          - link " " [ref=e23] [cursor=pointer]:
+            - /url: javascript:;
+            - generic [ref=e24]: 
+            - generic [ref=e25]: 
+          - text: 
+  - generic [ref=e26]:
+    - list [ref=e28]:
+      - listitem [ref=e29]:
+        - link "Dispensary " [ref=e30] [cursor=pointer]:
+          - /url: "#/Dispensary"
+          - img [ref=e31]
+          - text: Dispensary
+          - generic: 
+      - listitem [ref=e32]:
+        - link "SocialService " [ref=e33] [cursor=pointer]:
+          - /url: "#/SSU"
+          - img [ref=e34]
+          - text: SocialService
+          - generic: 
+      - listitem [ref=e35]:
+        - link "OperationTheatre " [ref=e36] [cursor=pointer]:
+          - /url: "#/OperationTheatre"
+          - img [ref=e37]
+          - text: OperationTheatre
+          - generic: 
+      - listitem [ref=e38]:
+        - link "DynamicReport " [ref=e39] [cursor=pointer]:
+          - /url: "#/DynamicReport"
+          - img [ref=e40]
+          - text: DynamicReport
+          - generic: 
+      - listitem [ref=e41]:
+        - link "Doctor " [ref=e42] [cursor=pointer]:
+          - /url: "#/Doctors"
+          - img [ref=e43]
+          - text: Doctor
+          - generic: 
+      - listitem [ref=e44]:
+        - link "Appointment " [ref=e45] [cursor=pointer]:
+          - /url: "#/Appointment"
+          - img [ref=e46]
+          - text: Appointment
+          - generic: 
+      - listitem [ref=e47]:
+        - link "Patient " [ref=e48] [cursor=pointer]:
+          - /url: "#/Patient"
+          - img [ref=e49]
+          - text: Patient
+          - generic: 
+      - listitem [ref=e50]:
+        - link "Procurement " [ref=e51] [cursor=pointer]:
+          - /url: "#/ProcurementMain"
+          - img [ref=e52]
+          - text: Procurement
+          - generic: 
+      - listitem [ref=e53]:
+        - link "Billing " [ref=e54] [cursor=pointer]:
+          - /url: "#/Billing"
+          - img [ref=e55]
+          - text: Billing
+          - generic: 
+      - listitem [ref=e56]:
+        - link "ClaimMgmt " [ref=e57] [cursor=pointer]:
+          - /url: "#/ClaimManagement"
+          - img [ref=e58]
+          - text: ClaimMgmt
+          - generic: 
+      - listitem [ref=e59]:
+        - link "Utilities " [ref=e60] [cursor=pointer]:
+          - /url: "#/Utilities"
+          - img [ref=e61]
+          - text: Utilities
+          - generic: 
+      - listitem [ref=e62]:
+        - link "MktReferral " [ref=e63] [cursor=pointer]:
+          - /url: "#/MktReferral"
+          - img [ref=e64]
+          - text: MktReferral
+          - generic: 
+      - listitem [ref=e65]:
+        - link "Reports " [ref=e66] [cursor=pointer]:
+          - /url: "#/Reports"
+          - img [ref=e67]
+          - text: Reports
+          - generic: 
+      - listitem [ref=e68]:
+        - link "Laboratory " [ref=e69] [cursor=pointer]:
+          - /url: "#/Lab"
+          - img [ref=e70]
+          - text: Laboratory
+          - generic: 
+      - listitem [ref=e71]:
+        - link "Radiology " [ref=e72] [cursor=pointer]:
+          - /url: "#/Radiology"
+          - img [ref=e73]
+          - text: Radiology
+          - generic: 
+      - listitem [ref=e74]:
+        - link "ADT " [ref=e75] [cursor=pointer]:
+          - /url: "#/ADTMain"
+          - img [ref=e76]
+          - text: ADT
+          - generic: 
+      - listitem [ref=e77]:
+        - link "Vaccination " [ref=e78] [cursor=pointer]:
+          - /url: "#/Vaccination"
+          - img [ref=e79]
+          - text: Vaccination
+          - generic: 
+      - listitem [ref=e80]:
+        - link "QueueMngmt " [ref=e81] [cursor=pointer]:
+          - /url: "#/QueueManagement"
+          - img [ref=e82]
+          - text: QueueMngmt
+          - generic: 
+      - listitem [ref=e83]:
+        - link "Inventory " [ref=e84] [cursor=pointer]:
+          - /url: "#/Inventory"
+          - img [ref=e85]
+          - text: Inventory
+          - generic: 
+      - listitem [ref=e86]:
+        - link "Accounting " [ref=e87] [cursor=pointer]:
+          - /url: "#/Accounting"
+          - img [ref=e88]
+          - text: Accounting
+          - generic: 
+      - listitem [ref=e89]:
+        - link "Emergency " [ref=e90] [cursor=pointer]:
+          - /url: "#/Emergency"
+          - img [ref=e91]
+          - text: Emergency
+          - generic: 
+      - listitem [ref=e92]:
+        - link "NHIF " [ref=e93] [cursor=pointer]:
+          - /url: "#/GovInsurance"
+          - img [ref=e94]
+          - text: NHIF
+          - generic: 
+      - listitem [ref=e95]:
+        - link "Maternity " [ref=e96] [cursor=pointer]:
+          - /url: "#/Maternity"
+          - img [ref=e97]
+          - text: Maternity
+          - generic: 
+      - listitem [ref=e98]:
+        - link "Helpdesk " [ref=e99] [cursor=pointer]:
+          - /url: "#/Helpdesk"
+          - img [ref=e100]
+          - text: Helpdesk
+          - generic: 
+      - listitem [ref=e101]:
+        - link "Nursing " [ref=e102] [cursor=pointer]:
+          - /url: "#/Nursing"
+          - img [ref=e103]
+          - text: Nursing
+          - generic: 
+      - listitem [ref=e104]:
+        - link "MedicalRecords " [ref=e105] [cursor=pointer]:
+          - /url: "#/Medical-records"
+          - img [ref=e106]
+          - text: MedicalRecords
+          - generic: 
+      - listitem [ref=e107]:
+        - link "Settings " [ref=e108] [cursor=pointer]:
+          - /url: "#/Settings"
+          - img [ref=e109]
+          - text: Settings
+          - generic: 
+      - listitem [ref=e110]:
+        - link "SystemAdmin " [ref=e111] [cursor=pointer]:
+          - /url: "#/SystemAdmin"
+          - img [ref=e112]
+          - text: SystemAdmin
+          - generic: 
+      - listitem [ref=e113]:
+        - link "Pharmacy " [ref=e114] [cursor=pointer]:
+          - /url: "#/Pharmacy"
+          - img [ref=e115]
+          - text: Pharmacy
+          - generic: 
+      - listitem [ref=e116]:
+        - link "SubStore " [ref=e117] [cursor=pointer]:
+          - /url: "#/WardSupply"
+          - img [ref=e118]
+          - text: SubStore
+          - generic: 
+      - listitem [ref=e119]:
+        - link "CSSD " [ref=e120] [cursor=pointer]:
+          - /url: "#/CSSD"
+          - img [ref=e121]
+          - text: CSSD
+          - generic: 
+      - listitem [ref=e122]:
+        - link "Incentive " [ref=e123] [cursor=pointer]:
+          - /url: "#/Incentive"
+          - img [ref=e124]
+          - text: Incentive
+          - generic: 
+      - listitem [ref=e125]:
+        - link "Verification " [ref=e126] [cursor=pointer]:
+          - /url: "#/Verification"
+          - img [ref=e127]
+          - text: Verification
+          - generic: 
+      - listitem [ref=e128]:
+        - link "FixedAssets " [ref=e129] [cursor=pointer]:
+          - /url: "#/FixedAssets"
+          - img [ref=e130]
+          - text: FixedAssets
+          - generic: 
+    - generic [ref=e135]:
+      - generic [ref=e136]:
+        - generic [ref=e141] [cursor=pointer]:
+          - generic [ref=e142]:
+            - generic [ref=e143]:
+              - paragraph [ref=e144]: Registered Patient
+              - generic [ref=e145]: "Total Patient: 759"
+            - generic [ref=e146]: "759"
+          - generic [ref=e147]:
+            - generic [ref=e148]: "Today : 1"
+            - generic [ref=e149]: "Yesterday : 0"
+        - generic [ref=e154]:
+          - generic [ref=e155]:
+            - generic [ref=e156]:
+              - paragraph [ref=e157]: Total Doctors
+              - generic [ref=e158]: "Consultants : 2"
+            - generic [ref=e159]: "2"
+          - generic [ref=e160]:
+            - generic [ref=e161]: "Medical Officers: 0"
+            - generic [ref=e162]: "Anaesthetists: 0"
+        - generic [ref=e168]:
+          - generic [ref=e169]:
+            - generic [ref=e170]:
+              - paragraph [ref=e171]: Today's Appointments
+              - generic [ref=e172]: "New : 1"
+              - generic [ref=e173]: "Follow up : 0"
+              - generic [ref=e174]: "Referrals : 0"
+            - generic [ref=e175]: "1"
+          - generic [ref=e176]:
+            - generic [ref=e177]: "Cancelled : 0"
+            - generic [ref=e178]: "Returned : 0"
+      - generic [ref=e182]:
+        - generic [ref=e183]:
+          - generic [ref=e184]: 
+          - generic [ref=e185]: Department wise appointment count on 20-11-2025
+        - generic [ref=e186]:
+          - link [ref=e187] [cursor=pointer]:
+            - /url: javascript:;
+          - link "" [ref=e188] [cursor=pointer]:
+            - /url: javascript:;
+          - link [ref=e189] [cursor=pointer]:
+            - /url: javascript:;
+```
